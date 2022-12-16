@@ -10,8 +10,16 @@
 
 # production
 /build
+/functions
+/.firebase
+
+#api key
+.env
 
 # misc
+axios.js
+.firebasesrc
+firebase.json
 .DS_Store
 .env.local
 .env.development.local
