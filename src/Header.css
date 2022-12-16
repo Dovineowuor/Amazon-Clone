@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 .header {
+=======
+.header{
+>>>>>>> Stashed changes
     height: 60px;
     display: flex;
     align-items: center;
@@ -8,39 +12,63 @@
     z-index: 100;
 }
 
+<<<<<<< Updated upstream
 .header__logo {
+=======
+.header__logo{
+>>>>>>> Stashed changes
     width: 100px;
     object-fit: contain;
     margin: 0 20px;
     margin-top: 18px;
 }
 
+<<<<<<< Updated upstream
 .header__search {
+=======
+.header__search{
+>>>>>>> Stashed changes
     display: flex;
     flex: 1;
     align-items: center;
     border-radius: 24px;
 }
 
+<<<<<<< Updated upstream
 .header__searchInput {
+=======
+.header__searchInput{
+>>>>>>> Stashed changes
     height: 12px;
     padding: 10px;
     border: none;
     width: 100%;
 }
+<<<<<<< Updated upstream
 
 .header__searchIcon {
+=======
+.header__searchIcon{
+>>>>>>> Stashed changes
     padding: 5px;
     height: 22px !important;
     background-color: #cd9042;
 }
 
+<<<<<<< Updated upstream
 .header__nav {
     display: flex;
     justify-content: space-evenly;
 }
 
 .header__option {
+=======
+.header__nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+.header__option{
+>>>>>>> Stashed changes
     display: flex;
     flex-direction: column;
     margin-left: 10px;
@@ -48,15 +76,24 @@
     color: white;
 }
 
+<<<<<<< Updated upstream
 .header__optionLineOne {
     font-size: 10px;
 }
 
 .header__optionLineTwo {
+=======
+.header__optionLineOne{
+    font-size: 10px;
+}
+
+.header__optionLineTwo{
+>>>>>>> Stashed changes
     font-size: 13px;
     font-weight: 800;
 }
 
+<<<<<<< Updated upstream
 .header__optionBasket {
    display: flex;
    align-items: center;
@@ -65,4 +102,15 @@
 
 .header__basketCount {
     margin: 0 10px;
+=======
+.header__optionBasket{
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.header__basketCount{
+    margin-left: 10px;
+    margin-right: 10px;
+>>>>>>> Stashed changes
 }
