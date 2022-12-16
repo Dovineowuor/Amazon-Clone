@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 .order {
+=======
+.order{
+>>>>>>> Stashed changes
     padding: 40px;
     margin: 20px 0;
     border: 1px solid lightgray;
@@ -6,13 +10,24 @@
     position: relative;
 }
 
+<<<<<<< Updated upstream
 .order__id {
+=======
+.order__id{
+>>>>>>> Stashed changes
     position: absolute;
     top: 40px;
     right: 20px;
 }
 
+<<<<<<< Updated upstream
 .order__total {
     font-weight: 500;
     text-align: right;
+=======
+.order__total{
+    font-weight: 500px;
+    text-align: right;
+
+>>>>>>> Stashed changes
 }
