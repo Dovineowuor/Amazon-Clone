@@ -1,9 +1,14 @@
+<<<<<<< Updated upstream
 .checkoutProduct {
+=======
+.checkoutProduct{
+>>>>>>> Stashed changes
     display: flex;
     margin-top: 20px;
     margin-bottom: 20px;
 }
 
+<<<<<<< Updated upstream
 .checkoutProduct__info {
     padding-left: 20px;
 }
@@ -17,16 +22,39 @@
 }
 
 .checkoutProduct__image {
+=======
+.checkoutProduct__info{
+    padding-left: 20px;
+}
+
+.checkoutProduct__info > button{
+    background:#f0c14b ;
+    border: 1px solid;
+    margin-top: 10px;
+    border-color: #a88734 #9c7e31 #846a29 ;
+    color: #111;
+}
+
+.checkoutProduct__image{
+>>>>>>> Stashed changes
     object-fit: contain;
     width: 180px;
     height: 180px;
 }
 
+<<<<<<< Updated upstream
 .checkoutProduct__rating {
     display: flex;
 }
 
 .checkoutProduct__title {
+=======
+.checkoutProduct__rating{
+    display: flex;
+}
+
+.checkoutProduct__title{
+>>>>>>> Stashed changes
     font-size: 17px;
     font-weight: 800;
 }
