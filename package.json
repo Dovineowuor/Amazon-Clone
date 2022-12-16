@@ -47,5 +47,27 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< Updated upstream
   }
+=======
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "Dovine Owuor",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dovineowuor/Amazon-Clone.git"
+  },
+  "keywords": [
+    "amazone-clone",
+    "ecomerse",
+    "fullstack"
+  ],
+  "bugs": {
+    "url": "https://github.com/Dovineowuor/Amazon-Clone/issues"
+  },
+  "homepage": "https://github.com/Dovineowuor/Amazon-Clone#readme"
+>>>>>>> Stashed changes
 }
