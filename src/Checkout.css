@@ -1,15 +1,24 @@
+<<<<<<< Updated upstream
 .checkout {
+=======
+.checkout{
+>>>>>>> Stashed changes
     display: flex;
     padding: 20px;
     background-color: white;
     height: max-content;
 }
+<<<<<<< Updated upstream
 
 .checkout__ad {
+=======
+.checkout__ad{
+>>>>>>> Stashed changes
     width: 100%;
     margin-bottom: 10px;
 }
 
+<<<<<<< Updated upstream
 .checkout__title {
     margin-right: 10px;
     padding: 10px;
@@ -78,3 +87,10 @@
       opacity: 1;
     }
   }
+=======
+.checkout__title{
+    padding: 10px;
+    margin-right: 10px;
+    border-bottom: 1px solid gray;
+}
+>>>>>>> Stashed changes
