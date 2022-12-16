@@ -10,6 +10,7 @@
     min-width: 100px;
     background-color: white;
     z-index: 1;
+<<<<<<< Updated upstream
     border-radius: 2px;
     box-shadow: 0 0 11px rgba(33,33,33,.2); 
     transition: transform 450ms;
@@ -25,12 +26,28 @@
 }
 
 .product > img {
+=======
+    transition: transform .2s;
+}
+
+.product:hover{    
+    box-shadow: -1px 20px 15px 5px gray;
+    transform: scale(1.019);
+    
+}
+
+.product__rating{
+    display: flex;
+}
+.product > img{
+>>>>>>> Stashed changes
     max-height: 200px;
     width: 100%;
     object-fit: contain;
     margin-bottom: 15px;
 }
 
+<<<<<<< Updated upstream
 .product > button {
     background: #f0c14b;
     border: 1px solid;
@@ -51,11 +68,34 @@
 }
 
 .product__info {
+=======
+.product > img:hover{
+    transform: rotate(2%);
+}
+
+.product__price{
+    margin-top: 5px;
+}
+
+.product__info{
+>>>>>>> Stashed changes
     height: 100px;
     margin-bottom: 15px;
 }
 
+<<<<<<< Updated upstream
 
 
 
 
+=======
+.product > button{
+    background: #f0c14b;
+    border: 1px solid;
+    margin-top: 10px;
+    font-size: 13px;
+    border-color:#a88734 #9c7e31 #846a29 ;
+    color: #111;
+
+}
+>>>>>>> Stashed changes
