@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 .login {
     background-color: white;
     display: flex;
@@ -13,29 +14,71 @@
 }
 
 .login__container {
+=======
+.login{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+
+
+.login__logo{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    object-fit: contain;
+    width: 100px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.login__container{
+>>>>>>> Stashed changes
     width: 300px;
     height: fit-content;
     display: flex;
     flex-direction: column;
     border-radius: 5px;
+<<<<<<< Updated upstream
     border: 1px solid lightgray;
     padding: 20px;
 }
 
 .login__container > h1 {
+=======
+    border: 1px solid #846a29 ;
+    padding: 20px;
+}
+
+.login__container > h1{
+>>>>>>> Stashed changes
     font-weight: 500;
     margin-bottom: 20px;
 }
 
+<<<<<<< Updated upstream
 .login__container > form > h5 {
     margin-bottom: 5px;
 }
 
 .login__container > form > input {
+=======
+.login__container > form > h5{
+    margin-bottom: 5px;
+}
+
+.login__container > form > input{
+>>>>>>> Stashed changes
     height: 30px;
     margin-bottom: 10px;
     background-color: white;
     width: 98%;
+<<<<<<< Updated upstream
+=======
+    border: 2px solid darkgray;
+>>>>>>> Stashed changes
 }
 
 .login__container > p {
@@ -43,6 +86,7 @@
     font-size: 12px;
 }
 
+<<<<<<< Updated upstream
 .login__signInButton {
     background: #f0c14b;
     border-radius: 2px;
@@ -62,4 +106,31 @@
     margin-top: 10px;
     border-color: darkgray;
 
+=======
+.login__signInButton{
+    background:#f0c14b ;
+    border-radius: 2px;
+    height: 30px;
+    width: 100%;
+    border: 1px solid;
+    margin-top:10px;
+    border-color: #a88734 #9c7e31 #846a29 ;
+}
+
+.login__registerButton{
+    border-radius: 2px;
+    height: 30px;
+    width: 100%;
+    border: 1px solid;
+    margin-top:10px;
+    font-weight: 400;
+    border-color: darkgray;
+}
+
+.login__registerButton:hover{
+    background-color:#f0c14b  ;
+    color: black;
+    transition: 0.1s ease-out;
+    border-color: #a88734 #9c7e31 #846a29 ;
+>>>>>>> Stashed changes
 }
